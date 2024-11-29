@@ -15,7 +15,7 @@ This template comes with:
 
 ## 🛠️ Tech Stack
 
-- [Next.js 14](https://nextjs.org/) - React framework for production
+- [Next.js 15.0.3](https://nextjs.org/) - React framework for production
 - [shadcn/ui](https://ui.shadcn.com/) - Beautiful and accessible components
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible components
